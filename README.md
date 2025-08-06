@@ -13,14 +13,6 @@ A simple command-line Rock-Paper-Scissors game in Python where the user plays ag
 
 ---
 
-## 🧠 Rules
-
-- **Rock beats Scissors**
-- **Scissors beats Paper**
-- **Paper beats Rock**
-- Same choice: **Draw**
-
----
 
 ## ▶️ How to Run
 
