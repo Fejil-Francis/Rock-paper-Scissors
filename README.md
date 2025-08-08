@@ -19,4 +19,4 @@ A simple command-line Rock-Paper-Scissors game in Python where the user plays ag
 Ensure Python is installed, then run:
 
 ```bash
-python rock_paper_scissors.py
+python RPS.py
