@@ -1,7 +1,7 @@
 import random
 a=["rock","paper","scissors"]
 x=random.choice(a)
-b=input("choose rock or paper or scissors")
+b=input("choose rock or paper or scissors ")
 print("computers choice is",x)
 if x=="rock" and b=="scissors":
         print("computer wins")
@@ -26,4 +26,5 @@ else :
             
 
         
+
 
