@@ -1,6 +1,6 @@
 # 🎮 Rock-Paper-Scissors Game (Python)
 
-A simple command-line Rock-Paper-Scissors game in Python where the user plays against the computer.
+A simple Rock-Paper-Scissors game in Python where the user plays against the computer.
 
 ---
 
