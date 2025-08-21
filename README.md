@@ -14,7 +14,7 @@ A simple Rock-Paper-Scissors game in Python where the user plays against the com
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Play
 
 Ensure Python is installed, then run:
 
