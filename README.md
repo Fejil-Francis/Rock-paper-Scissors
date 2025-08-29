@@ -1,7 +1,6 @@
 # 🎮 Rock-Paper-Scissors Game (Python)
 
-A simple Rock-Paper-Scissors game in Python where the user plays against the computer.
-
+A simple Rock-Paper-Scissors game in Python where the user plays against the computer. It uses Python’s random module to pick the computer’s move.
 ---
 
 ## 📌 How It Works
