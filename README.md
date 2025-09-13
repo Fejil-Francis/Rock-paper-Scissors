@@ -15,9 +15,6 @@ A simple Rock-Paper-Scissors game in Python where the user plays against the com
 
 ## ▶️ How to Play
 
-Ensure Python is installed, then run:
+Ensure Python is installed, then run the **RPS.py** file
 
-```bash
-python RPS.py
-```
 <img width="433" height="49" alt="RPS" src="https://github.com/user-attachments/assets/e715aa98-32cf-4d80-b502-c8a4e4ecd674" />
