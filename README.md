@@ -18,3 +18,9 @@ A simple Rock-Paper-Scissors game in Python where the user plays against the com
 Ensure Python is installed, then run the **RPS.py** file
 
 <img width="433" height="49" alt="RPS" src="https://github.com/user-attachments/assets/e715aa98-32cf-4d80-b502-c8a4e4ecd674" />
+
+<img width="337" height="50" alt="scissors" src="https://github.com/user-attachments/assets/62fb383d-cfb5-4efc-b0c3-e58fad542fbe" />
+
+<img width="307" height="51" alt="rock" src="https://github.com/user-attachments/assets/a96e0c14-4a07-4518-bb77-cf7f3ac2526f" />
+
+
